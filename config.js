@@ -1,14 +1,13 @@
 const CONFIG = {
     introTitle: 'Bé ơi!',
-    introDesc: `Pardon the way that I stare
-There’s nothing else to compare
-The sight of you leaves me weak
-There are no words left to speak
-But if you feel like I feel
-Please let me know that it’s real
-You’re just to good to be true
-And my baby
-Can’t take my eyes off of you`,
+    introDesc: `Em là cánh diều
+    Nếu mê lên thì anh chiều 
+    One night stand, no thank you
+    Những thanh âm này sao nghe như tình yêu
+    Đây là lâu dài
+    Đón "my queen" về lâu đài
+    Sẽ ở đây hay đâu này
+    Miss dior ở tất cả nơi ta làm `,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
