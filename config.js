@@ -7,7 +7,7 @@ const CONFIG = {
     Đây là lâu dài
     Đón "my queen" về lâu đài
     Sẽ ở đây hay đâu này
-    Miss dior ở tất cả nơi ta làm `,
+    Miss dior ở tất cả nơi ta làm`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
