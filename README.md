@@ -8,23 +8,22 @@ Liên lạc:
 Mở file config.js sửa nội dung theo mẫu
 ```
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Xin chào Pé Hương à!',
+    introDesc: `Anh gọi chỉ để hỏi cơm hôm nay ăn chưa
+    Nếu ăn rồi thì đã húp canh chưa
+    Húp rồi thì đã nhớ anh chưa :))))`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    title: 'Người đầu tiên và duy nhất được nhận link này từ anh là e ó :)))))) 😙',
+    desc: 'Đi chơi hem chòi, rủ hoài mà hem chịu đi gì hết trơn, có ác cảm với tui hả chòi',
+    btnYes: 'Hong có... em đi mà <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    question:'Ừa, rủ mà hong đi thì mốt tui rủ nữa á chòi :)))))',
+    btnReply: 'Gửi cho anh Híuthiunang <3',
+    reply: 'Thích thì đi mà hong thích thì đi <33333333',
+    mess: 'Uhm hong chịu đi thì mốt tui rủ nữa cho tới khi nào chịu đi chơi thì thoai😘😘',
+    messDesc: 'Chơi với nhau cho tới sáng... nói chuyện đến trưa ... hơn cả Soobin anh có triệu lần đón đưa',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/Hiutran123
 }
 ```
 
