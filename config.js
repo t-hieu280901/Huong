@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Pé Hương!',
+    introTitle: 'Xin chào Pé Hương!',
     introDesc: `Anh gọi để hỏi cơm hôm nay ăn chưa
     Nếu ăn rồi thì đã húp canh chưa
     Nếu húp rồi thì đã nhớ anh chưa :))))))`,
